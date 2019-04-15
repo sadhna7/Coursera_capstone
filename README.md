@@ -1,3 +1,3 @@
-# using-github
+# Coursera_Capstone
 This is my first repository on github
 Many projects to be covered ahead...
